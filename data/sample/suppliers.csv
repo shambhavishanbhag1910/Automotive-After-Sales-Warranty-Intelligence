@@ -1,0 +1,8 @@
+supplier_id,supplier_name,commodity,location,supplier_quality_rating,recovery_contact,notes
+S001,Apex Emission Controls,EGR Valve,USA,86,apex.recovery@example.com,Supports 8D response within 10 business days
+S002,NorthStar Turbo Systems,Turbocharger,Mexico,82,northstar.quality@example.com,"Warranty tear down required above $2,000"
+S003,CleanEx Sensors,NOx Sensor,USA,78,cleanex.supplier@example.com,Sensor aging and contamination checks required
+S004,BlueFlow Dosing Systems,DEF Doser,Germany,80,blueflow.qa@example.com,Return part and crystallization photos required
+S005,ThermaCool Components,Coolant Pump,USA,75,thermacool.qa@example.com,Seal leak evidence needed
+S006,SureSeal Driveline,Wheel Seal,USA,73,sureseal.qa@example.com,Installation and axle vent checks required
+S007,Particulate Solutions,DPF Assembly,Canada,81,ps.supplier@example.com,Ash loading evidence required

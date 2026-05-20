@@ -1,0 +1,9 @@
+part_number,part_name,system,sub_system,supplier_id,supplier_name,unit_cost_usd,labor_standard_hours,warranty_coverage_months,warranty_coverage_miles,superseded_by,failure_mode_notes
+EGR-1001,EGR Valve,Engine and Emission,Exhaust Gas Recirculation,S001,Apex Emission Controls,640,2.1,36,100000,EGR-1002,"Sticking, carbon deposit, low EGR flow"
+TRB-2201,Turbocharger Assembly,Engine and Air Management,Turbocharging,S002,NorthStar Turbo Systems,1850,4.5,36,100000,TRB-2202,"Underboost, actuator error, oil contamination"
+NOX-3301,NOx Sensor Upstream,Aftertreatment,NOx Sensing,S003,CleanEx Sensors,420,1.2,36,100000,NOX-3302,"Slow response, contamination, wiring issue"
+NOX-3302,NOx Sensor Downstream,Aftertreatment,NOx Sensing,S003,CleanEx Sensors,435,1.2,36,100000,,Sensor aging or poor signal
+DEF-4401,DEF Doser Valve,Aftertreatment,Urea Dosing,S004,BlueFlow Dosing Systems,510,1.6,36,100000,DEF-4402,"Crystallization, dosing blockage"
+DPF-5501,DPF Assembly,Aftertreatment,Particulate Filter,S007,Particulate Solutions,2400,5.0,36,100000,DPF-5502,"High soot load, ash restriction, cracked substrate"
+CLP-6601,Coolant Pump,Cooling System,Coolant Circulation,S005,ThermaCool Components,310,1.8,36,100000,,"Seal leakage, bearing noise"
+WHS-7701,Rear Wheel Seal,Axle and Wheel End,Wheel End Sealing,S006,SureSeal Driveline,95,1.7,24,60000,WHS-7702,"Leak, installation damage, axle vent restriction"

@@ -1,0 +1,12 @@
+table_name,column_name,description,example_value,used_by_agent
+claims,claim_id,Unique warranty claim ID,C0001,Claim Intake Agent
+claims,complaint,Customer complaint text from repair order,Low power and check engine light on,"Claim Intake Agent, Root Cause Agent"
+claims,cause,Technician cause statement,EGR valve sticking due to carbon deposit,Diagnostic Agent
+claims,correction,Repair action performed by dealer,Replaced EGR valve,Warranty Policy Agent
+claims,risk_score,Synthetic claim risk score from rules and patterns,82,Decision Router
+fault_codes,dtc_code,Diagnostic Trouble Code captured during service,P0401,Diagnostic Agent
+fault_codes,freeze_frame_notes,Operating condition when fault occurred,High engine load during event,Diagnostic Agent
+tsb_knowledge,document_text,Service knowledge content for RAG retrieval,Underboost does not always mean turbo failure,Knowledge Retrieval Agent
+warranty_rules,condition_plain_english,Warranty rule in business language,Same VIN and same part failed within 90 days,Warranty Policy Agent
+agent_cases,root_cause_hypothesis,Agent generated root cause explanation,Likely EGR valve sticking,Root Cause Agent
+human_review_feedback,override_reason,Why human reviewer changed agent decision,Agent missed dealer history,Evaluation and improvement loop

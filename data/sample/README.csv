@@ -1,0 +1,7 @@
+Field,Value
+Dataset Name,Automotive After Sales Warranty Intelligence Demo Dataset
+Purpose,Synthetic but realistic dataset for building a LangGraph based Agentic AI warranty and service resolution platform.
+Recommended MVP,"EGR Valve, Turbocharger, NOx Sensor, DEF Doser, DPF, Coolant Pump and Wheel Seal after sales claims."
+How to use,"Load CSV files into PostgreSQL. Use claims, service_history, fault_codes and vehicle_master as structured tools. Use tsb_knowledge and warranty_rules for RAG and rule based reasoning."
+Important note,"This dataset is synthetic and for learning, demo, portfolio and architecture validation only. It does not contain real customer or OEM confidential data."
+Project flow,Claim Intake Agent → VIN History Agent → Diagnostic Agent → Knowledge Retrieval Agent → Warranty Policy Agent → Root Cause Agent → Human Review → Evidence Packet Agent.

@@ -1,0 +1,11 @@
+dealer_id,dealer_name,region,state,city,dealer_quality_score,avg_claim_cycle_days,notes
+D001,Great Lakes Truck Center,Midwest,IL,Lisle,88,6,Strong diagnostic documentation
+D002,Prairie Commercial Service,Midwest,IN,Fort Wayne,74,9,Occasional missing technician notes
+D003,Lone Star Fleet Service,South,TX,Dallas,69,12,High claim volume and repeat repairs
+D004,Pacific Heavy Truck,West,CA,Fresno,81,8,Good fault code capture
+D005,Rocky Mountain Diesel,West,CO,Denver,77,10,Delayed parts return
+D006,Southeast Bus and Truck,South,GA,Atlanta,72,11,Labor operation mismatch observed
+D007,North East Fleet Care,Northeast,PA,Allentown,84,7,Good warranty policy compliance
+D008,Ohio Valley Truck Works,Midwest,OH,Columbus,66,13,High no trouble found replacement rate
+D009,Carolina Commercial Motors,South,NC,Charlotte,79,9,Good campaign verification
+D010,Arizona Powertrain Service,West,AZ,Phoenix,70,12,Needs better photo evidence

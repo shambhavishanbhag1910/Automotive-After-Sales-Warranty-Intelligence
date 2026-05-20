@@ -1,0 +1,81 @@
+fault_event_id,repair_order_id,vin,dtc_code,dtc_description,system,severity,first_detected_date,last_detected_date,occurrence_count,freeze_frame_notes
+FE00001,RO00001,1HTHCZ40E9YA38G40,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,Critical,2025-12-30,2026-01-10,8,High engine load during event
+FE00002,RO00002,1HTXTPXST2JW6XEA6,P20E8,Reductant Pressure Too Low,Aftertreatment,Critical,2026-03-11,2026-03-13,3,No freeze frame available
+FE00003,RO00003,1HTWRRBN2YUEUZ92Y,P242F,Diesel Particulate Filter Restriction Ash Accumulation,Aftertreatment,Critical,2025-12-25,2025-12-31,9,Intermittent fault
+FE00004,RO00004,1NKUSRJGF4CBFPR9B,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Medium,2025-12-06,2025-12-18,4,Fault occurred during regeneration
+FE00005,RO00005,3AK5EVSUYXFJKR1KP,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Low,2026-04-18,2026-04-27,8,High engine load during event
+FE00006,RO00006,4VG73NGG4Z436DGD2,P242F,Diesel Particulate Filter Restriction Ash Accumulation,Aftertreatment,High,2026-02-18,2026-03-01,8,Fault occurred during regeneration
+FE00007,RO00007,1NKH1FV0NECRVFRG1,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,High,2026-01-06,2026-01-19,1,Intermittent fault
+FE00008,RO00008,1HTS7E63N182SKAG4,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Critical,2026-03-01,2026-03-06,1,No freeze frame available
+FE00009,RO00009,1HTWRRBN2YUEUZ92Y,P0046,Turbocharger Boost Control Circuit Range,Engine and Air Management,Low,2026-04-08,2026-04-12,7,Fault occurred during regeneration
+FE00010,RO00010,1HTS7E63N182SKAG4,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,High,2025-05-13,2025-05-26,4,Fault occurred during regeneration
+FE00011,RO00011,1HTS7E63N182SKAG4,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Low,2026-02-06,2026-02-11,6,No freeze frame available
+FE00012,RO00012,1HTL1A1T6V48KNVPD,P0046,Turbocharger Boost Control Circuit Range,Engine and Air Management,Critical,2025-03-29,2025-04-12,9,Intermittent fault
+FE00013,RO00013,W1YL4E116TAHUYHV4,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,Medium,2025-12-24,2026-01-04,2,No freeze frame available
+FE00014,RO00014,4VGG4ZX49H1NTC4AN,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,Critical,2026-02-26,2026-03-09,2,No freeze frame available
+FE00015,RO00015,1HT48F7Z3YXGLY38V,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,Low,2026-04-22,2026-05-03,4,Fault occurred during regeneration
+FE00016,RO00016,3AKUAL4YUKPYGF1GZ,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Low,2026-01-10,2026-01-15,3,Fault active during road test
+FE00017,RO00017,1NKAV775YMDT7HE28,P0299,Turbocharger Underboost,Engine and Air Management,Critical,2026-03-16,2026-03-24,6,Fault occurred during regeneration
+FE00018,RO00018,W1Y4HRKUKEDLWV5H6,P229F,NOx Sensor Circuit Range Performance Bank 1 Sensor 2,Aftertreatment,Critical,2025-08-24,2025-09-04,2,No freeze frame available
+FE00019,RO00019,1HTP6T0LHLWGBW12N,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,Low,2025-11-23,2025-12-06,2,Fault occurred during regeneration
+FE00020,RO00020,1HTXTPXST2JW6XEA6,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Critical,2026-01-21,2026-01-23,2,High engine load during event
+FE00021,RO00021,W1YL4E116TAHUYHV4,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,High,2025-05-01,2025-05-03,9,Fault active during road test
+FE00022,RO00022,4VG73NGG4Z436DGD2,P2563,Turbocharger Boost Control Position Sensor Range,Engine and Air Management,Low,2026-03-22,2026-03-25,5,Intermittent fault
+FE00023,RO00023,1HTX655P97LFV9YFS,P2457,EGR Cooling System Performance,Engine and Emission,High,2026-02-04,2026-02-16,6,Fault occurred during regeneration
+FE00024,RO00024,1HT85FC4XTBFRBUCM,P2457,EGR Cooling System Performance,Engine and Emission,Low,2026-02-23,2026-03-01,7,High engine load during event
+FE00025,RO00025,1HTWRRBN2YUEUZ92Y,P229F,NOx Sensor Circuit Range Performance Bank 1 Sensor 2,Aftertreatment,Medium,2025-08-20,2025-08-23,7,Fault occurred during regeneration
+FE00026,RO00026,4VGTJZES0VL5WAWGJ,P204F,Reductant System Performance,Aftertreatment,Critical,2025-06-06,2025-06-11,2,No freeze frame available
+FE00027,RO00027,3AKUAL4YUKPYGF1GZ,P2563,Turbocharger Boost Control Position Sensor Range,Engine and Air Management,High,2025-03-31,2025-04-04,6,Fault active during road test
+FE00028,RO00028,1HTP826KTJST420RJ,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Medium,2026-03-19,2026-03-22,3,High engine load during event
+FE00029,RO00029,1HTL1A1T6V48KNVPD,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,High,2025-04-19,2025-04-28,2,Intermittent fault
+FE00030,RO00030,1HTHCZ40E9YA38G40,P0402,Exhaust Gas Recirculation Flow Excessive,Engine and Emission,High,2026-04-10,2026-04-20,8,Fault occurred during regeneration
+FE00031,RO00031,4VG73NGG4Z436DGD2,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2026-03-21,2026-03-28,6,Fault occurred during regeneration
+FE00032,RO00032,1HTPUELSL61URXDRC,P2563,Turbocharger Boost Control Position Sensor Range,Engine and Air Management,Medium,2025-11-22,2025-12-02,2,Intermittent fault
+FE00033,RO00033,1HTWFSH3R155W4WDG,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Medium,2025-03-25,2025-03-29,6,No freeze frame available
+FE00034,RO00034,1NKD79LD9FMEES2HS,P2202,NOx Sensor Circuit Low,Aftertreatment,Critical,2026-02-26,2026-03-01,3,Fault active during road test
+FE00035,RO00035,1HT48F7Z3YXGLY38V,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2026-04-13,2026-04-27,4,Intermittent fault
+FE00036,RO00036,1NKSMELA357VCRVV6,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2025-04-09,2025-04-21,9,High engine load during event
+FE00037,RO00037,1HTWRRBN2YUEUZ92Y,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Medium,2025-12-24,2025-12-31,2,Intermittent fault
+FE00038,RO00038,4VGTJZES0VL5WAWGJ,P2002,Diesel Particulate Filter Efficiency Below Threshold,Aftertreatment,High,2026-03-26,2026-03-30,3,Fault occurred during regeneration
+FE00039,RO00039,1HT85FC4XTBFRBUCM,P0128,Coolant Thermostat Below Regulating Temperature,Cooling System,Low,2026-03-13,2026-03-24,9,Fault occurred during regeneration
+FE00040,RO00040,1HTPYPT98TDF4UCAY,P207F,Reductant Quality Performance,Aftertreatment,Critical,2025-09-28,2025-10-12,8,High engine load during event
+FE00041,RO00041,3AK5EVSUYXFJKR1KP,P20E8,Reductant Pressure Too Low,Aftertreatment,Critical,2025-04-20,2025-05-02,8,Fault active during road test
+FE00042,RO00042,1HTRRAEDRECYE9SU8,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2026-04-25,2026-05-01,1,Intermittent fault
+FE00043,RO00043,1NK3KSLM3BMY3SULG,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Critical,2025-09-28,2025-10-08,3,Fault occurred during regeneration
+FE00044,RO00044,1HTWRRBN2YUEUZ92Y,P2563,Turbocharger Boost Control Position Sensor Range,Engine and Air Management,Critical,2026-04-04,2026-04-09,1,High engine load during event
+FE00045,RO00045,4VGDP31B17AZW13R8,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Medium,2026-04-23,2026-05-04,8,Intermittent fault
+FE00046,RO00046,3AKSH6J6X5945L75T,P2563,Turbocharger Boost Control Position Sensor Range,Engine and Air Management,Critical,2025-07-26,2025-07-30,5,No freeze frame available
+FE00047,RO00047,1NKD79LD9FMEES2HS,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,High,2026-03-29,2026-04-12,3,Fault active during road test
+FE00048,RO00048,3AKSH6J6X5945L75T,P229F,NOx Sensor Circuit Range Performance Bank 1 Sensor 2,Aftertreatment,Low,2026-03-13,2026-03-18,7,No freeze frame available
+FE00049,RO00049,1HTUVGNVR0MWAJUCD,P0128,Coolant Thermostat Below Regulating Temperature,Cooling System,Medium,2025-07-22,2025-07-29,9,High engine load during event
+FE00050,RO00050,1HTEJJ7LT4PNW2055,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,Low,2025-12-06,2025-12-15,3,Fault occurred during regeneration
+FE00051,RO00051,W1Y4HRKUKEDLWV5H6,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Low,2025-06-08,2025-06-16,9,Intermittent fault
+FE00052,RO00052,4VGG4ZX49H1NTC4AN,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,High,2025-03-26,2025-04-02,3,Intermittent fault
+FE00053,RO00053,3AK07Z4YZ6UWTRHNX,P0046,Turbocharger Boost Control Circuit Range,Engine and Air Management,Medium,2025-11-24,2025-12-07,3,No freeze frame available
+FE00054,RO00054,3AK07Z4YZ6UWTRHNX,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2025-12-08,2025-12-13,9,High engine load during event
+FE00055,RO00055,4VGGW9NK0LAX8BH0W,P2202,NOx Sensor Circuit Low,Aftertreatment,High,2025-12-21,2026-01-04,2,Fault active during road test
+FE00056,RO00056,4VGGW9NK0LAX8BH0W,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Medium,2025-03-29,2025-04-08,9,Fault active during road test
+FE00057,RO00057,4VGW9W3X2VJN31MW2,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,High,2026-02-19,2026-02-25,2,No freeze frame available
+FE00058,RO00058,W1Y4HRKUKEDLWV5H6,P0402,Exhaust Gas Recirculation Flow Excessive,Engine and Emission,Low,2025-07-08,2025-07-18,2,Fault active during road test
+FE00059,RO00059,3AKUAL4YUKPYGF1GZ,P242F,Diesel Particulate Filter Restriction Ash Accumulation,Aftertreatment,Critical,2025-10-08,2025-10-17,7,Intermittent fault
+FE00060,RO00060,1HTL1A1T6V48KNVPD,P2463,Diesel Particulate Filter Soot Accumulation,Aftertreatment,Critical,2025-08-07,2025-08-13,8,Intermittent fault
+FE00061,RO00061,1HTWFSH3R155W4WDG,P207F,Reductant Quality Performance,Aftertreatment,Medium,2026-03-14,2026-03-18,9,Intermittent fault
+FE00062,RO00062,1HTWFSH3R155W4WDG,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,Low,2026-03-14,2026-03-25,3,High engine load during event
+FE00063,RO00063,1HTWFSH3R155W4WDG,P0217,Engine Coolant Over Temperature Condition,Cooling System,Critical,2025-06-05,2025-06-19,3,High engine load during event
+FE00064,RO00064,4VGDP31B17AZW13R8,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,High,2025-04-27,2025-05-01,2,Intermittent fault
+FE00065,RO00065,1HT5J4MU6SE5GDAFS,P204F,Reductant System Performance,Aftertreatment,Critical,2025-05-11,2025-05-17,4,High engine load during event
+FE00066,RO00066,1NK4AHEKC0K4JCW0C,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,High,2025-09-30,2025-10-03,7,Fault occurred during regeneration
+FE00067,RO00067,4VGG4ZX49H1NTC4AN,P204F,Reductant System Performance,Aftertreatment,Critical,2025-11-03,2025-11-12,6,High engine load during event
+FE00068,RO00068,1NKSMELA357VCRVV6,P0401,Exhaust Gas Recirculation Flow Insufficient,Engine and Emission,Low,2025-08-04,2025-08-12,3,Fault occurred during regeneration
+FE00069,RO00069,1HT2L6JB2BF4J6MDT,P2457,EGR Cooling System Performance,Engine and Emission,Low,2025-07-28,2025-08-06,1,High engine load during event
+FE00070,RO00070,3AKU764UXSFU5S61Y,P204F,Reductant System Performance,Aftertreatment,High,2025-10-20,2025-10-22,3,Fault occurred during regeneration
+FE00071,RO00071,4VGDP31B17AZW13R8,P2201,NOx Sensor Circuit Range Performance Bank 1,Aftertreatment,Critical,2025-05-06,2025-05-12,3,Intermittent fault
+FE00072,RO00072,1NKD79LD9FMEES2HS,P2457,EGR Cooling System Performance,Engine and Emission,Medium,2025-03-19,2025-03-31,1,No freeze frame available
+FE00073,RO00073,1HTP6T0LHLWGBW12N,P229F,NOx Sensor Circuit Range Performance Bank 1 Sensor 2,Aftertreatment,Critical,2025-04-23,2025-04-28,5,High engine load during event
+FE00074,RO00074,1HTWFSH3R155W4WDG,P20EE,SCR NOx Catalyst Efficiency Below Threshold,Aftertreatment,Critical,2025-06-29,2025-07-03,4,Intermittent fault
+FE00075,RO00075,4VG73NGG4Z436DGD2,P0402,Exhaust Gas Recirculation Flow Excessive,Engine and Emission,Low,2025-07-27,2025-08-05,4,High engine load during event
+FE00076,RO00076,1NK3KSLM3BMY3SULG,P2457,EGR Cooling System Performance,Engine and Emission,Medium,2026-03-31,2026-04-12,4,No freeze frame available
+FE00077,RO00077,1HTPYPT98TDF4UCAY,P242F,Diesel Particulate Filter Restriction Ash Accumulation,Aftertreatment,Medium,2025-04-11,2025-04-17,6,No freeze frame available
+FE00078,RO00078,1NKH1FV0NECRVFRG1,P229F,NOx Sensor Circuit Range Performance Bank 1 Sensor 2,Aftertreatment,Critical,2025-04-26,2025-05-05,6,Intermittent fault
+FE00079,RO00079,3AKTYUUANFS38S785,NO_DTC,No diagnostic code recorded,Axle and Wheel End,Low,2026-02-09,2026-02-22,1,No freeze frame available
+FE00080,RO00080,1HTRRAEDRECYE9SU8,P0299,Turbocharger Underboost,Engine and Air Management,Low,2025-05-13,2025-05-22,9,No freeze frame available

@@ -1,0 +1,41 @@
+vin,make,model,model_year,vehicle_type,engine_family,plant,build_date,warranty_start_date,warranty_end_date,fleet_segment,application,odometer_current
+1NKUSRJGF4CBFPR9B,Kenworth,T680,2024,Commercial Truck,PACCAR MX-13,Renton,2024-10-19,2024-10-25,2027-10-25,Leasing Fleet,Refuse,154853
+3AKUAL4YUKPYGF1GZ,Freightliner,Cascadia,2022,Commercial Truck,Detroit DD15,Cleveland,2024-03-10,2024-04-12,2027-04-12,Construction,Vocational,23390
+1NKH1FV0NECRVFRG1,Kenworth,T680,2022,Commercial Truck,PACCAR MX-13,Renton,2022-11-07,2022-12-16,2025-12-15,Food Distribution,Refuse,107638
+1HTPUELSL61URXDRC,International,RH,2022,Commercial Truck,A26 Diesel,Springfield,2023-05-08,2023-06-04,2026-06-03,Food Distribution,Vocational,29350
+1HTP826KTJST420RJ,International,RH,2024,Commercial Truck,A26 Diesel,Springfield,2022-03-31,2022-04-25,2025-04-24,Food Distribution,Regional Haul,24351
+W1YL4E116TAHUYHV4,Mercedes-Benz,Sprinter,2021,Commercial Van,OM654 Diesel,Charleston,2024-10-23,2024-11-06,2027-11-06,Food Distribution,Regional Haul,81045
+4VGGW9NK0LAX8BH0W,Volvo,VNL,2021,Commercial Truck,D13 Diesel,Dublin,2024-06-04,2024-07-11,2027-07-11,Private Fleet,Long Haul,160729
+1HTEJJ7LT4PNW2055,International,LT,2020,Commercial Truck,S13 Integrated Powertrain,Escobedo,2024-12-11,2025-01-16,2028-01-16,Leasing Fleet,Long Haul,28784
+1HTRRAEDRECYE9SU8,International,HV,2021,Vocational Truck,S13 Integrated Powertrain,San Antonio,2025-04-22,2025-06-03,2028-06-02,Construction,Long Haul,161695
+4VG73NGG4Z436DGD2,Volvo,VNL,2025,Commercial Truck,D13 Diesel,Dublin,2022-10-10,2022-10-30,2025-10-29,Municipal,Regional Haul,77183
+1HT5J4MU6SE5GDAFS,International,RH,2021,Commercial Truck,A26 Diesel,Springfield,2024-05-11,2024-06-19,2027-06-19,Food Distribution,Last Mile,138185
+1HTL1A1T6V48KNVPD,International,RH,2024,Commercial Truck,A26 Diesel,Springfield,2023-03-06,2023-03-14,2026-03-13,General Freight,School Bus,27979
+1NKD79LD9FMEES2HS,Kenworth,T680,2024,Commercial Truck,PACCAR MX-13,Renton,2023-09-01,2023-09-09,2026-09-08,Construction,Regional Haul,174367
+1HTXTPXST2JW6XEA6,International,LT,2024,Commercial Truck,S13 Integrated Powertrain,Escobedo,2023-01-28,2023-03-11,2026-03-10,Construction,Regional Haul,31204
+4VGTJZES0VL5WAWGJ,Volvo,VNL,2022,Commercial Truck,D13 Diesel,Dublin,2024-03-25,2024-05-01,2027-05-01,Private Fleet,Regional Haul,157024
+1HTPYPT98TDF4UCAY,International,RH,2021,Commercial Truck,A26 Diesel,Springfield,2023-11-25,2023-12-18,2026-12-17,General Freight,Vocational,54357
+1NK4AHEKC0K4JCW0C,Kenworth,T680,2022,Commercial Truck,PACCAR MX-13,Renton,2022-12-13,2023-01-22,2026-01-21,Leasing Fleet,Refuse,77412
+1NK3KSLM3BMY3SULG,Kenworth,T680,2023,Commercial Truck,PACCAR MX-13,Renton,2024-11-06,2024-12-03,2027-12-03,Private Fleet,Last Mile,70309
+1HTWRRBN2YUEUZ92Y,International,RH,2020,Commercial Truck,A26 Diesel,Springfield,2022-11-05,2022-12-02,2025-12-01,Private Fleet,Vocational,58810
+4VGG4ZX49H1NTC4AN,Volvo,VNL,2022,Commercial Truck,D13 Diesel,Dublin,2023-12-09,2023-12-16,2026-12-15,Food Distribution,Regional Haul,98559
+4VGW9W3X2VJN31MW2,Volvo,VNL,2024,Commercial Truck,D13 Diesel,Dublin,2023-09-01,2023-09-13,2026-09-12,Private Fleet,Vocational,87212
+1HTX655P97LFV9YFS,International,RH,2025,Commercial Truck,A26 Diesel,Springfield,2023-01-06,2023-02-17,2026-02-16,Municipal,Long Haul,64200
+1HTS7E63N182SKAG4,International,RH,2021,Commercial Truck,A26 Diesel,Springfield,2025-04-15,2025-04-22,2028-04-21,Leasing Fleet,Refuse,147779
+3AKSH6J6X5945L75T,Freightliner,Cascadia,2021,Commercial Truck,Detroit DD15,Cleveland,2025-02-22,2025-04-03,2028-04-02,General Freight,Vocational,148655
+3AK5EVSUYXFJKR1KP,Freightliner,Cascadia,2020,Commercial Truck,Detroit DD15,Cleveland,2024-02-01,2024-02-23,2027-02-22,Food Distribution,Last Mile,98738
+4VGDP31B17AZW13R8,Volvo,VNL,2021,Commercial Truck,D13 Diesel,Dublin,2022-10-24,2022-11-24,2025-11-23,Municipal,Last Mile,139308
+1HT2L6JB2BF4J6MDT,International,LT,2023,Commercial Truck,S13 Integrated Powertrain,Escobedo,2023-03-31,2023-04-26,2026-04-25,Municipal,Long Haul,131196
+1HTU3TF7BDZRECBSN,International,HV,2020,Vocational Truck,S13 Integrated Powertrain,San Antonio,2023-07-14,2023-08-12,2026-08-11,Construction,Long Haul,74533
+1HTP6T0LHLWGBW12N,International,RH,2020,Commercial Truck,A26 Diesel,Springfield,2022-10-09,2022-10-21,2025-10-20,Construction,Refuse,176427
+1HTHCZ40E9YA38G40,International,RH,2025,Commercial Truck,A26 Diesel,Springfield,2024-11-08,2024-12-02,2027-12-02,Food Distribution,Refuse,52105
+3AKU764UXSFU5S61Y,Freightliner,Cascadia,2020,Commercial Truck,Detroit DD15,Cleveland,2024-06-09,2024-07-17,2027-07-17,Food Distribution,Vocational,59668
+3AKTYUUANFS38S785,Freightliner,Cascadia,2020,Commercial Truck,Detroit DD15,Cleveland,2024-03-27,2024-04-23,2027-04-23,Private Fleet,Vocational,70090
+3AK07Z4YZ6UWTRHNX,Freightliner,Cascadia,2020,Commercial Truck,Detroit DD15,Cleveland,2024-01-23,2024-02-16,2027-02-15,General Freight,School Bus,60535
+1HTUVGNVR0MWAJUCD,International,RH,2024,Commercial Truck,A26 Diesel,Springfield,2024-03-18,2024-04-22,2027-04-22,Municipal,Refuse,45103
+1NKAV775YMDT7HE28,Kenworth,T680,2020,Commercial Truck,PACCAR MX-13,Renton,2022-09-03,2022-09-14,2025-09-13,Construction,Refuse,26053
+1HTWFSH3R155W4WDG,International,RH,2021,Commercial Truck,A26 Diesel,Springfield,2024-08-03,2024-09-13,2027-09-13,General Freight,Long Haul,81375
+1NKSMELA357VCRVV6,Kenworth,T680,2020,Commercial Truck,PACCAR MX-13,Renton,2024-12-20,2025-01-04,2028-01-04,General Freight,Long Haul,81351
+W1Y4HRKUKEDLWV5H6,Mercedes-Benz,Sprinter,2025,Commercial Van,OM654 Diesel,Charleston,2022-02-13,2022-03-02,2025-03-01,Municipal,Refuse,117515
+1HT85FC4XTBFRBUCM,International,HV,2023,Vocational Truck,S13 Integrated Powertrain,San Antonio,2022-08-15,2022-09-23,2025-09-22,Construction,Refuse,127927
+1HT48F7Z3YXGLY38V,International,HV,2025,Vocational Truck,S13 Integrated Powertrain,San Antonio,2024-05-29,2024-07-10,2027-07-10,Food Distribution,School Bus,21619

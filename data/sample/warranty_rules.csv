@@ -1,0 +1,11 @@
+rule_id,rule_name,condition_plain_english,required_data,agent_action,human_approval_required,escalation_team,priority
+WR-001,Repeat Repair Within 90 Days,Same VIN and same part failed within 90 days,"VIN, part number, previous repair date",Flag as repeat repair and route to warranty analyst,Y,Warranty Analyst,High
+WR-002,High Dollar Claim,Claim amount is greater than 2000 USD,"Claim amount, part number",Require supervisor review and evidence packet,Y,Warranty Operations,High
+WR-003,Missing Diagnostic Trouble Code,Claim has emission or engine part but no DTC provided,"Part system, DTC field",Hold claim and request diagnostic scan report,Y,Dealer Support,Medium
+WR-004,Out Of Warranty,Mileage or months in service exceed warranty coverage,"Mileage, months in service, policy table",Hold for policy exception review,Y,Warranty Analyst,High
+WR-005,Supplier Recovery Candidate,Part failed within warranty and evidence is complete for supplier owned failure,"Supplier, root cause, photos, diagnostic evidence",Prepare supplier recovery package,Y,Supplier Quality,High
+WR-006,Known Recall Match,Claim component matches open recall or campaign,"Make, model, model year, component",Route to campaign handling process,Y,Campaign Team,High
+WR-007,Dealer Quality Risk,Dealer quality score is below 70 and claim risk is high,"Dealer score, risk score",Require additional evidence before approval,Y,Dealer Performance,Medium
+WR-008,No Trouble Found Risk,Cause field indicates no confirmed failure but part was replaced,"Cause, correction, part replaced",Request additional diagnosis before approval,Y,Warranty Analyst,Medium
+WR-009,Safety Critical Component,"Claim involves brake, steering, wheel end, or high severity failure","Component, severity",Escalate to service engineering,Y,Service Engineering,Critical
+WR-010,Automatic Low Risk Approval,"Claim is policy eligible, low risk, no repeat repair, and evidence complete","Eligibility, risk score, repeat flag, evidence score",Approve with audit trail,N,Warranty Operations,Low

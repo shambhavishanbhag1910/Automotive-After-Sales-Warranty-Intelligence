@@ -1,0 +1,12 @@
+services:
+  warranty-api:
+    build: .
+    container_name: warranty-agentic-ai-api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./data/warranty_ai.db
+      - SAMPLE_DATA_DIR=./data/sample
+      - APP_ENV=docker
+    volumes:
+      - ./data:/app/data

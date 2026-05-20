@@ -1,0 +1,222 @@
+{
+  "dataset_name": "automotive_after_sales_warranty_intelligence_demo",
+  "created_for": "Agentic AI after sales warranty project",
+  "tables": {
+    "README": {
+      "columns": [
+        "Field",
+        "Value"
+      ],
+      "row_count": 6
+    },
+    "claims": {
+      "columns": [
+        "claim_id",
+        "repair_order_id",
+        "vin",
+        "dealer_id",
+        "claim_date",
+        "mileage_at_claim",
+        "months_in_service",
+        "part_number",
+        "part_name",
+        "system",
+        "claim_amount_usd",
+        "labor_hours",
+        "dtc_primary",
+        "claim_status",
+        "complaint",
+        "cause",
+        "correction",
+        "repeat_repair_flag",
+        "policy_eligible",
+        "risk_score",
+        "severity_index",
+        "recommended_action",
+        "escalation_team"
+      ],
+      "row_count": 80
+    },
+    "vehicle_master": {
+      "columns": [
+        "vin",
+        "make",
+        "model",
+        "model_year",
+        "vehicle_type",
+        "engine_family",
+        "plant",
+        "build_date",
+        "warranty_start_date",
+        "warranty_end_date",
+        "fleet_segment",
+        "application",
+        "odometer_current"
+      ],
+      "row_count": 40
+    },
+    "service_history": {
+      "columns": [
+        "repair_order_id",
+        "vin",
+        "dealer_id",
+        "visit_date",
+        "odometer",
+        "customer_complaint",
+        "technician_notes",
+        "diagnosis",
+        "part_replaced",
+        "labor_hours",
+        "repair_cost_usd",
+        "repair_outcome"
+      ],
+      "row_count": 110
+    },
+    "fault_codes": {
+      "columns": [
+        "fault_event_id",
+        "repair_order_id",
+        "vin",
+        "dtc_code",
+        "dtc_description",
+        "system",
+        "severity",
+        "first_detected_date",
+        "last_detected_date",
+        "occurrence_count",
+        "freeze_frame_notes"
+      ],
+      "row_count": 80
+    },
+    "parts_master": {
+      "columns": [
+        "part_number",
+        "part_name",
+        "system",
+        "sub_system",
+        "supplier_id",
+        "supplier_name",
+        "unit_cost_usd",
+        "labor_standard_hours",
+        "warranty_coverage_months",
+        "warranty_coverage_miles",
+        "superseded_by",
+        "failure_mode_notes"
+      ],
+      "row_count": 8
+    },
+    "dealers": {
+      "columns": [
+        "dealer_id",
+        "dealer_name",
+        "region",
+        "state",
+        "city",
+        "dealer_quality_score",
+        "avg_claim_cycle_days",
+        "notes"
+      ],
+      "row_count": 10
+    },
+    "suppliers": {
+      "columns": [
+        "supplier_id",
+        "supplier_name",
+        "commodity",
+        "location",
+        "supplier_quality_rating",
+        "recovery_contact",
+        "notes"
+      ],
+      "row_count": 7
+    },
+    "recalls_campaigns": {
+      "columns": [
+        "campaign_id",
+        "make",
+        "model",
+        "model_year",
+        "component",
+        "defect_summary",
+        "consequence",
+        "remedy",
+        "recall_date",
+        "source_url"
+      ],
+      "row_count": 5
+    },
+    "tsb_knowledge": {
+      "columns": [
+        "tsb_id",
+        "make",
+        "model",
+        "model_year",
+        "component",
+        "symptom",
+        "repair_procedure",
+        "document_text",
+        "source_url"
+      ],
+      "row_count": 7
+    },
+    "warranty_rules": {
+      "columns": [
+        "rule_id",
+        "rule_name",
+        "condition_plain_english",
+        "required_data",
+        "agent_action",
+        "human_approval_required",
+        "escalation_team",
+        "priority"
+      ],
+      "row_count": 10
+    },
+    "agent_cases": {
+      "columns": [
+        "case_id",
+        "claim_id",
+        "vin",
+        "agent_status",
+        "root_cause_hypothesis",
+        "confidence_score",
+        "missing_evidence",
+        "recommended_next_action",
+        "evidence_packet_status",
+        "created_at"
+      ],
+      "row_count": 35
+    },
+    "human_review_feedback": {
+      "columns": [
+        "feedback_id",
+        "case_id",
+        "reviewer_role",
+        "human_decision",
+        "override_flag",
+        "override_reason",
+        "review_date",
+        "learning_label"
+      ],
+      "row_count": 24
+    },
+    "data_dictionary": {
+      "columns": [
+        "table_name",
+        "column_name",
+        "description",
+        "example_value",
+        "used_by_agent"
+      ],
+      "row_count": 11
+    }
+  },
+  "recommended_use": [
+    "PostgreSQL structured data layer",
+    "LangGraph agent tools",
+    "RAG document store",
+    "FastAPI endpoints",
+    "Warranty analyst dashboard",
+    "Evaluation and human feedback loop"
+  ]
+}

@@ -1,0 +1,6 @@
+campaign_id,make,model,model_year,component,defect_summary,consequence,remedy,recall_date,source_url
+RC-ENG-001,International,LT,2022,Engine and Emission,Emission control module calibration may trigger derate under specific duty cycle,Vehicle may experience reduced power,Update calibration and verify aftertreatment performance,2024-03-12,https://www.nhtsa.gov/recalls
+RC-AFT-002,International,RH,2021,Aftertreatment,DEF line routing may cause low reductant pressure in cold conditions,Emission warning and derate may occur,Inspect routing and replace affected line kit,2023-11-05,https://www.nhtsa.gov/recalls
+RC-WHL-003,Freightliner,Cascadia,2020,Wheel End,Wheel seal installation variation may lead to oil leak,Possible wheel end contamination,Inspect and replace affected seals,2022-07-20,https://www.nhtsa.gov/recalls
+RC-TUR-004,Volvo,VNL,2023,Turbocharger,Actuator connector retention may be insufficient,Loss of boost and warning lamp,Inspect connector and update harness clip,2024-08-28,https://www.nhtsa.gov/recalls
+RC-SNS-005,Kenworth,T680,2022,NOx Sensor,Sensor heater circuit may set false fault in high humidity,Emission lamp may illuminate,Replace sensor with updated part,2023-09-17,https://www.nhtsa.gov/recalls

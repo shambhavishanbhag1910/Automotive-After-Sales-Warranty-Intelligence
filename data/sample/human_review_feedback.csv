@@ -1,0 +1,25 @@
+feedback_id,case_id,reviewer_role,human_decision,override_flag,override_reason,review_date,learning_label
+FB0001,CASE0001,Warranty Manager,Hold For Evidence,N,No override,2026-01-17,Needs Better Retrieval
+FB0002,CASE0002,Supplier Quality Engineer,Hold For Evidence,N,No override,2025-09-08,Needs Better Retrieval
+FB0003,CASE0003,Supplier Quality Engineer,Escalate Engineering,N,No override,2025-12-10,Missing Evidence Logic Correct
+FB0004,CASE0004,Supplier Quality Engineer,Approve,Y,No override,2026-04-26,Needs Stronger Policy Logic
+FB0005,CASE0005,Supplier Quality Engineer,Escalate Engineering,N,No override,2025-12-17,Needs Stronger Policy Logic
+FB0006,CASE0006,Supplier Quality Engineer,Approve,N,No override,2026-04-02,Needs Stronger Policy Logic
+FB0007,CASE0007,Supplier Quality Engineer,Reject,N,No override,2026-02-25,Missing Evidence Logic Correct
+FB0008,CASE0008,Service Engineer,Send Supplier Recovery,N,No override,2025-10-21,Needs Stronger Policy Logic
+FB0009,CASE0009,Warranty Manager,Reject,N,No override,2026-01-06,Missing Evidence Logic Correct
+FB0010,CASE0010,Warranty Analyst,Approve,N,No override,2025-03-30,Missing Evidence Logic Correct
+FB0011,CASE0011,Supplier Quality Engineer,Hold For Evidence,Y,Root cause not supported,2026-04-14,Missing Evidence Logic Correct
+FB0012,CASE0012,Service Engineer,Hold For Evidence,Y,Additional photo evidence received,2026-04-13,Correct Recommendation
+FB0013,CASE0013,Warranty Analyst,Escalate Engineering,N,No override,2026-01-14,Needs Better Retrieval
+FB0014,CASE0014,Warranty Manager,Escalate Engineering,Y,Root cause not supported,2026-03-08,Correct Recommendation
+FB0015,CASE0015,Warranty Manager,Approve,N,No override,2026-05-02,Correct Recommendation
+FB0016,CASE0016,Supplier Quality Engineer,Hold For Evidence,Y,Agent missed dealer history,2026-03-25,Needs Stronger Policy Logic
+FB0017,CASE0017,Warranty Manager,Send Supplier Recovery,N,No override,2025-10-17,Correct Recommendation
+FB0018,CASE0018,Warranty Analyst,Approve,Y,Agent missed dealer history,2025-05-09,Needs Stronger Policy Logic
+FB0019,CASE0019,Supplier Quality Engineer,Hold For Evidence,N,No override,2026-04-01,Needs Better Retrieval
+FB0020,CASE0020,Warranty Analyst,Reject,Y,No override,2025-05-18,Needs Better Retrieval
+FB0021,CASE0021,Warranty Manager,Hold For Evidence,N,No override,2025-05-31,Missing Evidence Logic Correct
+FB0022,CASE0022,Warranty Analyst,Approve,N,No override,2025-08-08,Correct Recommendation
+FB0023,CASE0023,Service Engineer,Send Supplier Recovery,N,No override,2025-05-27,Needs Stronger Policy Logic
+FB0024,CASE0024,Service Engineer,Hold For Evidence,N,No override,2026-03-07,Correct Recommendation
