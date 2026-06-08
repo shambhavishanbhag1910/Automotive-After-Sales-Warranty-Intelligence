@@ -1,3 +1,27 @@
+## Project Status
+
+### Implemented
+- LangGraph-based workflow orchestration
+- Warranty-claim intake and enrichment
+- VIN-history and repeat-repair analysis
+- Fault-code severity interpretation
+- TF-IDF retrieval baseline
+- Warranty-rule validation
+- Supplier-recovery recommendation baseline
+- Human-review endpoint
+- Evidence-packet generation
+- FastAPI backend
+- Streamlit analyst dashboard
+- Dockerized local setup
+
+### In Progress
+- Conditional LangGraph routing
+- Semantic retrieval using Qdrant
+- Grounded LLM explanation layer
+- Golden-case evaluation
+- Langfuse observability
+- CI/CD workflow
+
 # Agentic AI Warranty Intelligence Platform for Automotive After Sales
 
 This is a runnable MVP for an **automotive after sales Agentic AI project**. It uses a production style workflow for warranty claim investigation, VIN history review, fault code interpretation, warranty rule validation, TSB and recall retrieval, supplier recovery recommendation, human review, and evidence packet generation.
