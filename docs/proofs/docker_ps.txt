@@ -1,2 +1,3 @@
-CONTAINER ID   IMAGE                                                       COMMAND                  CREATED          STATUS          PORTS                                         NAMES
-e628dacf694a   automotive-after-sales-warranty-intelligence-warranty-api   "uvicorn app.main:ap…"   14 minutes ago   Up 14 minutes   0.0.0.0:8000->8000/tcp, [::]:8000->8000/tcp   warranty-agentic-ai-api
+CONTAINER ID   IMAGE                                                       COMMAND                  CREATED         STATUS         PORTS                                         NAMES
+d4540d6eaedf   automotive-after-sales-warranty-intelligence-warranty-ui    "streamlit run strea…"   2 minutes ago   Up 2 minutes   0.0.0.0:8501->8501/tcp, [::]:8501->8501/tcp   warranty-agentic-ai-streamlit
+bf33b43a9bc5   automotive-after-sales-warranty-intelligence-warranty-api   "uvicorn app.main:ap…"   2 minutes ago   Up 2 minutes   0.0.0.0:8000->8000/tcp, [::]:8000->8000/tcp   warranty-agentic-ai-api

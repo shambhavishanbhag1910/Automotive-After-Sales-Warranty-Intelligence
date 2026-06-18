@@ -10,3 +10,18 @@ services:
       - APP_ENV=docker
     volumes:
       - ./data:/app/data
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+  warranty-ui:
+    build: .
+    container_name: warranty-agentic-ai-streamlit
+    ports:
+      - "8501:8501"
+    environment:
+      - API_BASE_URL=http://warranty-api:8000
+      - APP_ENV=docker
+    depends_on:
+      - warranty-api
+    volumes:
+      - ./data:/app/data
+    command: streamlit run streamlit_app.py --server.address 0.0.0.0 --server.port 8501
