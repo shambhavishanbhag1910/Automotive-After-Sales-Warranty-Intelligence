@@ -35,7 +35,7 @@ col4.metric("Repeat Repairs", kpis["repeat_repair_claims"])
 st.subheader("Claims Workbench")
 claims = repo.list_claims(limit=100)
 claims_df = pd.DataFrame(claims)
-st.dataframe(claims_df, use_container_width=True)
+st.dataframe(claims_df, width="stretch")
 
 claim_ids = claims_df["claim_id"].tolist() if not claims_df.empty else []
 selected_claim = st.selectbox("Select claim to investigate", claim_ids)
