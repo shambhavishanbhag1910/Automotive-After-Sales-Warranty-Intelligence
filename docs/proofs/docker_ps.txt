@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                                                       COMMAND                  CREATED          STATUS          PORTS                                         NAMES
+e628dacf694a   automotive-after-sales-warranty-intelligence-warranty-api   "uvicorn app.main:ap…"   14 minutes ago   Up 14 minutes   0.0.0.0:8000->8000/tcp, [::]:8000->8000/tcp   warranty-agentic-ai-api
